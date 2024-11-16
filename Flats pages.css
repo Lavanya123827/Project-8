@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 130vh;
+    background-size: cover;
+    width: 100vw;
+}
+
+.home-page-card {
+    background-color: #ffffff;
+    height: 35vh;
+    width: 100vw;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.main-title {
+    color: #0f0e4b;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.home-page-sub-title {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+    padding-top: 50px;
+}
+
+.home-page-para {
+    color: #6c6b70;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+    width: 70px;
+    border-width: 0px;
+    margin: 15px;
+}
+
+.list-page-sub-title {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+    padding-top: 50px;
+    padding-left: 15px;
+}
+
+.list-page-bg-container {
+    background-color: #222222;
+}
+
+.list-page-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 180px;
+    margin: 15px;
+}
+
+.list-card-images {
+    height: 180px;
+    width: 100px;
+}
+
+.list-card-title {
+    color: #0f0e46;
+    font-size: 25px;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-family: "Bree Serif";
+}
+
+.list-card-para {
+    color: #7b8794;
+    font-size: 16px;
+    padding-left: 15px;
+    font-family: "Bree Serif";
+}
+
+.flats-description-images {
+    height: 50vh;
+    width: 100vh;
+}
+
+.description-card {
+    background-color: #222222;
+    height: 70vh;
+    width: 100vh;
+}
+
+.price-title {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+    padding: 35px;
+}
+
+.location-image {
+    height: 20px;
+    padding-left: 35px;
+}
+
+.location-details {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    padding-left: 10px;
+}
+
+.description-title {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+    padding-left: 35px;
+}
+
+.description {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    padding-left: 35px;
+    padding-top: 10px;
+}
